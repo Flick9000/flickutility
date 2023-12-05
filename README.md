@@ -19,7 +19,8 @@ The goal of this utility is to group various tools & tweaks from different sourc
   Install all of your programs & utilities automatically using CTT's Utility or the menu in the batch file.
 
 ## 🔗 Download
-Get the latest version 0.1 from [here.](https://github.com/Flick9000/flickutility/releases/latest/download/flickutility.bat)
+Get the latest version from [here.](https://github.com/Flick9000/flickutility/releases/latest/download/flickutility.bat)
+SHA256: 38a8acf950143fc6cb5ec5df030ff0665fc13bb811a096140bb082e0c05b22c9
 
 ## ⭐ Contribute
 You can help the project by reporting any bugs you may encounter and leaving a star.
